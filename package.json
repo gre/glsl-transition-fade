@@ -1,0 +1,23 @@
+{
+  "name": "glsl-transition-fade",
+  "version": "1.0.0",
+  "description": "The simple fade GLSL Transition object",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:glslio/glsl-transition-fade.git"
+  },
+  "keywords": [
+    "glsl-transition",
+    "fade"
+  ],
+  "author": "Gaëtan Renaudeau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/glslio/glsl-transition-fade/issues"
+  },
+  "homepage": "https://github.com/glslio/glsl-transition-fade"
+}
